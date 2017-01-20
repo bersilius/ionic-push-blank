@@ -1,5 +1,11 @@
 # ionic-push-blank
 
+This is a template Ionic application for using [phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push).
+Follow the instruction below on how to build an Android (Ionic) application.
+
+Note, that in order to use this application you must have JAVA and Android SDK installed.
+TODO: Create walkthrough for JAVA and Android SDK install and usage
+
 ```
   ## Install Ionic and Cordova globally
   $ npm install -g ionic cordova
