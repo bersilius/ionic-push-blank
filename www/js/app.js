@@ -24,6 +24,7 @@ angular.module('starter', ['ionic'])
 
         var push = PushNotification.init({
             android: {
+                // Replace your senderID
                 senderID: "123456"
             }
         });
