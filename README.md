@@ -10,6 +10,8 @@
   ## Replace senderID
   $ cordova plugin add phonegap-plugin-push --variable SENDER_ID="XXXXXXX"
   
+  ## Also replace your senderID in package.json and in config.xml
+  
   ## Build an android-debug.apk
   $ ionic build android
 ```
