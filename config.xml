@@ -40,4 +40,7 @@
     <splash src="resources/android/splash/drawable-port-xxhdpi-screen.png" density="port-xxhdpi"/>
     <splash src="resources/android/splash/drawable-port-xxxhdpi-screen.png" density="port-xxxhdpi"/>
   </platform>
+  <plugin name="phonegap-plugin-push" spec="https://github.com/phonegap/phonegap-plugin-push.git">
+        <param name="SENDER_ID" value="12345" />
+    </plugin>
 </widget>
