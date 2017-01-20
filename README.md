@@ -3,6 +3,9 @@
 ```
   ## Install Ionic and Cordova globally
   $ npm install -g ionic cordova
+  
+  ## Run npm install first time
+  $ npm install
 
   ## Add android platform to this project
   $ ionic platform add android
