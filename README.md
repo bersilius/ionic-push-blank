@@ -59,4 +59,8 @@ Head to Firebase console again:
 - click send "Message button"
 - check your app debug console. If your app is in the foreground, without the sound enabled options the message will only appear in the debug console if you use Chrome inspector (chrome://inspect/#devices) // TODO: upgrade  template app to log message on app's default view
 
+# References:
 
+https://ionicframework.com/getting-started/
+https://github.com/phonegap/phonegap-plugin-push
+https://firebase.google.com/docs/
