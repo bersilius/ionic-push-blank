@@ -61,6 +61,6 @@ Head to Firebase console again:
 
 # References:
 
-https://ionicframework.com/getting-started/
-https://github.com/phonegap/phonegap-plugin-push
-https://firebase.google.com/docs/
+[Create an Ionic app](https://ionicframework.com/getting-started/)
+[Install, setup and use phonegap/phonegap-plugin-push](https://github.com/phonegap/phonegap-plugin-push)
+[Firebase docs](https://firebase.google.com/docs/) -- see above docs for project setup steps
